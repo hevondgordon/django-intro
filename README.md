@@ -13,7 +13,7 @@ git clone https://github.com/hevondgordon/django-intro.git
 cd django-intro
 ```
 
-## Setting up virtual environment
+## installing virtualenv
 
 ```python
 pip install virtualenv

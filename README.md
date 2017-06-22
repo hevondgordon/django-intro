@@ -9,7 +9,9 @@ git clone https://github.com/hevondgordon/django-intro.git
 ```
 ## Navigating into the cloned repo 
 
+```python
 cd django-intro
+```
 
 ## Setting up virtual environment
 

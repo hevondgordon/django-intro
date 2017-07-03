@@ -2,17 +2,6 @@
 
 dun know
 
-## cloning the repo
-
-```python
-git clone https://github.com/hevondgordon/django-intro.git
-```
-## Navigating into the cloned repo 
-
-```python
-cd django-intro
-```
-
 ## installing virtualenv
 
 ```python
@@ -31,11 +20,13 @@ virtialenv venv
 . venv/bin/activate
 ```
 
-## Installing requirements
-
+## installing django
 ```python
-pip install -r requirements.txt
+pip install django 
+
 ```
+
+
 
 
 

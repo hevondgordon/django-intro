@@ -26,7 +26,10 @@ pip install django
 
 ```
 
-
+## Deactivating virtual environment
+```python
+deactivate
+```
 
 
 

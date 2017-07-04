@@ -20,7 +20,7 @@ virtualenv -p python3 venv
 . venv/bin/activate
 ```
 
-## installing django
+## Installing django
 ```python
 pip install django 
 

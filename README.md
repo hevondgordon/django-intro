@@ -2,7 +2,7 @@
 
 dun know
 
-## installing virtualenv
+## Installing virtualenv
 
 ```python
 pip install virtualenv

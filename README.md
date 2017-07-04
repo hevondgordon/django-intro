@@ -2,6 +2,16 @@
 
 dun know
 
+## Creating projects folder
+```python
+mkdir dev
+```
+
+## Entering projects folder
+```python
+cd dev
+```
+
 ## Installing virtualenv
 
 ```python
